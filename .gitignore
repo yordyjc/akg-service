@@ -1,2 +1,2 @@
-./ekgservice/bin
-./obj
+/ekgservice/bin/
+/ekgservice/obj/
