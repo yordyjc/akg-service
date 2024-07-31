@@ -3,3 +3,4 @@ C:\Users\YCHURA\documents\visual studio 2012\Projects\ekgservice\ekgservice\bin\
 C:\Users\YCHURA\documents\visual studio 2012\Projects\ekgservice\ekgservice\bin\Release\ekgservice.pdb
 C:\Users\YCHURA\documents\visual studio 2012\Projects\ekgservice\ekgservice\obj\Release\ekgservice.exe
 C:\Users\YCHURA\documents\visual studio 2012\Projects\ekgservice\ekgservice\obj\Release\ekgservice.pdb
+C:\Users\YCHURA\documents\visual studio 2012\Projects\ekgservice\ekgservice\obj\Release\ekgservice.csprojResolveAssemblyReference.cache
