@@ -1,5 +1,0 @@
-c:\users\ychura\documents\visual studio 2012\Projects\ekgservice\ekgservice\bin\Debug\ekgservice.exe.config
-c:\users\ychura\documents\visual studio 2012\Projects\ekgservice\ekgservice\bin\Debug\ekgservice.exe
-c:\users\ychura\documents\visual studio 2012\Projects\ekgservice\ekgservice\bin\Debug\ekgservice.pdb
-c:\users\ychura\documents\visual studio 2012\Projects\ekgservice\ekgservice\obj\Debug\ekgservice.exe
-c:\users\ychura\documents\visual studio 2012\Projects\ekgservice\ekgservice\obj\Debug\ekgservice.pdb
